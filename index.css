@@ -17,7 +17,9 @@ h1,h2 {
 p{
 color:rgb(255, 255, 255);
 }
-
+a{
+color:rgb(0, 51, 0);
+}
 #link {
     color:rgb(0, 51, 0);
 }
