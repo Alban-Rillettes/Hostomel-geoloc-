@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    background-color:rgb(30, 30, 30);
+    
+    
+    
+}
+#articlebase{
+    margin-left:148.5px;
+    margin-right:148.5px;
+}
+h1, h2, h3, h4, h5, h6 {color:rgb(255, 255, 255);
+}
+h1,h2 {
+    text-align:center;
+}
+p{
+color:rgb(255, 255, 255);
+}
+
+#link {
+    color:rgb(0, 51, 0);
+}
+#bandeau {
+    
+    width:100%;
+    height:312px;
+    background-color:rgb(55, 55, 55);
+    border-bottom:5px rgba(40, 40, 40, 0.800);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+#Main {
+    width:65%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#Article{
+    width:720px;
+    height:537px;
+#Image{
+    width:720px;
+    height:405px;
+    margin-bottom:35px;
+}
